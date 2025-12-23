@@ -1,0 +1,66 @@
+# ================================
+# Python cache & compiled files
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ================================
+# Virtual environments
+# ================================
+.venv/
+.env
+.env.*
+.python-version
+
+# ================================
+# uv (package manager)
+# ================================
+.uv/
+uv.lock
+
+# ================================
+# Build / packaging artifacts
+# ================================
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# ================================
+# Antigravity
+# ================================
+.antigravity/
+.antigravity_cache/
+antigravity.db
+antigravity.log
+
+# ================================
+# Jupyter / notebooks
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# Logs & temp files
+# ================================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ================================
+# OS / editor junk
+# ================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ================================
+# Secrets (extra safety)
+# ================================
+*.key
+*.pem
+*.secret
