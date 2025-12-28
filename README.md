@@ -3,14 +3,14 @@
 A Python-based project for practicing the development of intelligent agents.  
 This repository serves as a learning sandbox to experiment with agent concepts, frameworks, and autonomous behaviors.
 
----
+----
 
 ## 📌 Overview
 
 **Agent Practice** is a hands-on repository designed to help understand and build intelligent agents step by step.  
 It focuses on experimentation, clean structure, and extensibility, making it suitable for both beginners and learners exploring agent-based systems.
 
----
+----
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ It focuses on experimentation, clean structure, and extensibility, making it sui
 - Designed for learning and practice
 - Easy to expand with new agents or tools
 
----
+----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ It focuses on experimentation, clean structure, and extensibility, making it sui
 - Virtual Environments (`venv`)
 - Standard Python tooling
 
----
+----
 
 ## 🚀 Getting Started
 
@@ -37,3 +37,4 @@ It focuses on experimentation, clean structure, and extensibility, making it sui
 ```bash
 git clone https://github.com/Sahilp14/agent_practice.git
 cd agent_practice
+
